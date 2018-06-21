@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Landingpage from './page/landingpage';
+import Landingpage from './registration/page/landingpage';
 import './App.css';
 
 class App extends Component {
